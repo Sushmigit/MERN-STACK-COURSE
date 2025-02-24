@@ -1,0 +1,30 @@
+Rendering Engines => Interprets HTML,CSS and JS to create web pages
+MERN STACK
+Client => React
+Server => Node + Express
+Database => Mongo
+small delay occurs when we click something in frontend => because frontend fetches the data from db through server
+frontend => To display the data and to interact with the user but it doesn't contain any data on its own
+frontend and db doesn't interact directly 
+server acts as a bridge or intermediate between frontend and db
+
+Eg: Databse => Kitchen
+    Menu => Client
+    Waiter => Server
+
+ Container tag => It will provide effect to the content which has been wrapped inside within that tag e.g: h1,table   
+ standalone tag => it will provide its effect where it has been placed e.g : hr,br
+ Lorem epsum => to generate a standard para we just type Lorem
+ block tag=> it takes complete space / line e.g:h1,list
+ Inline tag=> It takes only req amount of size e.g:i
+
+ Lists
+
+ Unordered => Bullets
+ Ordered => Numbering
+
+ Form tags
+mainly used in fin tech companies
+input
+attributes => additional info of the container tag we can place these attributes inside open tag e.g type,name,plceholder,for,id
+using for and id we can just connect two tags if we touch one tag , then the action on next tag will takes place

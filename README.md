@@ -5,11 +5,6 @@ This repository contains my personal notes, code samples, and exercises from the
 
 I have organized this repository into different sections to help me track my progress and refer back to key concepts as I continue learning and building projects.
 
-## Repository Structure
-- **/notes/**: This folder contains my course notes, explaining key concepts, tools, and libraries used in MERN Stack development.
-- **/sample-programs/**: This folder contains code samples and small projects that I built while learning the MERN stack. The programs demonstrate concepts such as handling API requests, managing databases with MongoDB, building React apps, and more.
-- **/projects/**: (Optional) This section contains any mini-projects or full-stack applications I’ve built throughout the course to apply my knowledge.
-
 ## Topics Covered
 1. **MongoDB**:
    - Basics of MongoDB.

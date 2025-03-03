@@ -1,0 +1,25 @@
+.head
+{
+    color: aqua;
+}
+#pi
+{
+ color: aquamarine;
+}
+h2{
+    position: absolute;
+    top: 30px;
+}
+button
+{
+    padding: 10px 40px;
+    margin: 10px;
+    background-color:darkorchid;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+button :hover
+{
+   background-color: plum;
+   
+}

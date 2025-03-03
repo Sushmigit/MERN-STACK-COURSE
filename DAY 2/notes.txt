@@ -1,0 +1,32 @@
+CSS - Cascading Style Sheets
+Inline - within the tag
+Internal - within style tag within head tag
+External - separate css file
+Selectors
+class - they can be shared among the different elements
+id- it should be unique to a particular element
+element selector - using the element name directly we select the element to apply style
+
+CSS Positions
+absolute
+Relative
+static
+sticky
+
+Box Model
+margin
+padding
+
+
+Bootstrap
+
+CDN - Content Delivery Network
+Designs stored in some server within a region
+when we use cdn it'll provide the corresponding requested style from the server
+
+data bs - to include javascript
+toggle
+collapse
+parent
+target will be assigned an id the element with this id will get affected by that data bs action i.e either toggle,collapse
+

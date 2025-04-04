@@ -1,0 +1,12 @@
+#box-container
+{
+    text-align: center;
+    border: 2px solid black;
+    width: fit-content;
+    margin: 20% 45%;
+    padding: 10px;
+}
+#head
+{
+    text-align: center;
+}

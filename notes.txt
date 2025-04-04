@@ -1,0 +1,33 @@
+Components => reusable block of code
+jsx => javascript XML => Extension for react components
+keep path name in lowercase and component should start with uppercase letter
+
+Routing => react-router-dom
+Navigation => useNavigate give this inside a function and use it otherwise it'll immediately get executed
+to reuse a component within another component => use element of that component
+
+Components in react
+class components
+Functional Components
+
+react js => updation
+usually react when it rerenders it start reading from the start so the updated value will again get assigned to old value
+Hooks
+usestate => rerenders the page and also keep track of the updated values or states
+useState returns a variable and a function to access or control the variable 
+Lifecycle of Components
+Mounting
+updating
+Unmounting
+useEffect or side effect Hook
+useEffect(anonymous fn,empty dependencyi.e empty array)
+when we enter into or refresh a page, useEffect triggers that anonymous function and it 'll executed
+whenever we want to perform something on updation,we can use useeffect. we do not include 2nd parameter empty dependency. if we don't include it the unction gets triggred always
+if we want to perform something on updation of a particular value we can just give that value as 2nd parameter
+useEffect on Unmounting
+we will give return function inside useeffect
+javascript single threaded
+js default synchronous but it can work asynchronously also
+how js handle asynchronous despite of being single threaded?
+event loop
+promise concept in js
